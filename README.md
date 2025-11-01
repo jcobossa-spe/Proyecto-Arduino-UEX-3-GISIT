@@ -4,6 +4,7 @@
   - WebServer
 
 #REFERENCIAS:
+
 https://roboticoss.com/wp-content/uploads/2022/10/Guia-Esp32-FREE.pdf
 https://www.bolanosdj.com.ar/MOVIL/ARDUINO2/Modulo298.pdf
 https://programarfacil.com/blog/arduino-blog/sensor-dht11-temperatura-humedad-arduino/
